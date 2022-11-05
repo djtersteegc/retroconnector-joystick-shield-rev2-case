@@ -1,4 +1,4 @@
-3D printable snap fit case for the Rev 2 joystick shield available from RetroConnector to use your Apple ][ stick with a modern USB connected computer.
+3D printable snap fit case for the RetroConnector Joystick Shield Rev 2 designed by Option8 to use your Apple ][ stick with a modern USB connected computer.
 
 https://github.com/option8/RetroConnector/tree/master/Joystick-Shield/Joystick%20Shield%20PCB%20rev2
 
